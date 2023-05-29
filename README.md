@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akash.
-- 👀 I’m interested in Web Application and IoT Developing...
+- 👀 I’m interested in Web/Android Application and IoT.
 - 🌱 I’m currently learning Flutter for Android and iOS application development.
 - 📫 Here is my mail Id: akashofficialone@gmail.com
 
